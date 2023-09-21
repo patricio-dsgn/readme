@@ -1,62 +1,22 @@
 <a name="readme-top"></a>
 
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
- -->
-
-<!-- <a href="https://www.linkedin.com/in/patricio-dsgn/"><a href="https://www.linkedin.com/in/patricio-dsgn/">linkdn</a>
-</a> -->
 
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="readme/logo.svg" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
+  <img src="readme/logo.svg" alt="Logo" width="80" height="80">
+  <h3 align="center">Name Project</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+
+<a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>    
+<a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+<a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+
 </div>
 
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 ## About The Project
@@ -80,15 +40,54 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [![Python][Python]][Python-url]
-- [![Next][Next.js]][Next-url]
-- [![React][React.js]][React-url]
-- [![Vue][Vue.js]][Vue-url]
-- [![Angular][Angular.io]][Angular-url]
-- [![Svelte][Svelte.dev]][Svelte-url]
-- [![Laravel][Laravel.com]][Laravel-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- [![JQuery][JQuery.com]][JQuery-url]
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/php-plain.svg" width="20px" style="display:inline;"> php
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/laravel-plain.svg" width="20px" style="display:inline;"> laravel
+
+<br>
+
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bash-plain.svg" width="20px" style="display:inline;"> bash
+
+<br>
+
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/html5-plain.svg" width="20px" style="display:inline;"> html5
+
+<br>
+
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/css3-plain.svg" width="20px" style="display:inline;"> css3
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/tailwindcss-plain.svg" width="20px" style="display:inline;"> tailwindcss
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bootstrap-plain.svg" width="20px" style="display:inline;"> bootstrap
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bulma-plain.svg" width="20px" style="display:inline;"> bulma
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/picocss-plain.svg" width="20px" style="display:inline;"> picocss
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/materializecss-original.svg" width="20px" style="display:inline;"> materializecss
+
+<br>
+
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/javascript-original.svg" width="20px" style="display:inline;"> javascript
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/nodejs-plain.svg" width="20px" style="display:inline;"> node.js
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/react-original.svg" width="20px" style="display:inline;"> react
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/vuejs-original.svg" width="20px" style="display:inline;"> vue.js
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/angularjs-plain.svg" width="20px" style="display:inline;"> angular.js
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/svelte-original.svg" width="20px" style="display:inline;"> svelte
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/typescript-plain.svg" width="20px" style="display:inline;"> typescript
+
+<br>
+
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/npm-original-wordmark.svg" width="20px" style="display:inline;"> npm
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/yarn-original.svg" width="20px" style="display:inline;"> yarn
+
+<br>
+
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/mongodb-plain.svg" width="20px" style="display:inline;"> mongodb
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/redis-plain.svg" width="20px" style="display:inline;"> redis
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/mysql-plain.svg" width="20px" style="display:inline;"> mysql
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/postgresql-plain.svg" width="20px" style="display:inline;"> postgresql
+
+<br>
+
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/python-original.svg" width="20px" style="display:inline;"> python
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/django-plain.svg" width="20px" style="display:inline;"> django
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,21 +170,18 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See <a href="LICENSE.txt">LICENSE.txt</a> for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+* Author: <a href="https://github.com/patricio-dsgn/">https://github.com/patricio-dsgn/</a>
+* Project Link: <a href="https://github.com/patricio-dsgn/">https://github.com/patricio-dsgn/</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,111 +189,18 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+I'd like to express my gratitude to the following resources that have been instrumental in this project's development. They've been immensely helpful, and I highly recommend checking them out:
 
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
+- [Choose an Open Source License](https://choosealicense.com/): A valuable resource for selecting an open-source license for your projects.
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet): A fun and handy guide to using emojis in your GitHub projects.
+- [Malven's Flexbox Cheatsheet](https://malven.co/): An excellent reference for mastering CSS Flexbox.
+- [Malven's Grid Cheatsheet](https://malven.co/): A comprehensive guide to CSS Grid Layout.
+- [Img Shields](https://shields.io/): Generate custom badges for your project's readme with ease.
+- [GitHub Pages](https://pages.github.com/): A great way to host your project's website directly from your GitHub repository.
+- [Font Awesome](https://fontawesome.com/): A fantastic collection of free icons and tools for web projects.
+- [React Icons](https://react-icons.github.io/react-icons/): A library of popular icons for use in React applications.
+
+These resources have played a significant role in making this project possible. Thank you for providing such valuable tools and references!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/patricio-dsgn/
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[PHP.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[Tailwind.com]: https://img.shields.io/badge/Tailwindcss-07B0CD?style=for-the-badge&logo=Tailwindcss&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/
-[Materialize.com]: https://img.shields.io/badge/Materializecss-EB7077?style=for-the-badge&logo=materialize-css&logoColor=white
-[Materialize-url]: https://Materializecss.com/
-[picocss.com]: https://img.shields.io/badge/picocss-333333?style=for-the-badge&logo=Picocss&logoColor=white
-[picocss-url]: https://picocss.com/
-[python.com]: https://img.shields.io/badge/python-F6D443?style=for-the-badge&logo=python&logoColor=4382B2
-[python-url]: https://python.com
-[django.com]: https://img.shields.io/badge/django-0B4B33?style=for-the-badge&logo=django&logoColor=FFFFFF
-[django-url]: https://python.com
-
-[html.com]: https://img.shields.io/badge/html-0B4B33?style=for-the-badge&logo=html&logoColor=FFFFFF
-[html-url]: https://html.com
-
-
-
-
-
-- [![html][html.com]][html-url]
-- [![css][css.com]][css-url]
-- [![javascript][javascript.com]][javascript-url]
-<br>
-
-- [![Python][python.com]][Python-url]
-- [![django][django.com]][django-url]
-
-<br>
-
-- [![Next][Next.js]][Next-url]
-
-<br>
-
-- [![React][React.js]][React-url]
-- [![Vue][Vue.js]][Vue-url]
-- [![Angular][Angular.io]][Angular-url]
-- [![Svelte][Svelte.dev]][Svelte-url]
-
-<br>
-
-- [![Laravel][Laravel.com]][Laravel-url]
-
-<br>
-
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- [![tailwind][Tailwind.com]][Tailwind-url]
-- [![Materialize][Materialize.com]][Materialize-url]
-- [![picocss][picocss.com]][picocss-url]
-
-
-https://img.shields.io/badge/javascript-F6D443?style=for-the-badge&logo=javascript&logoColor=000000
-
-https://img.shields.io/badge/python-F6D443?style=for-the-badge&logo=python&logoColor=4382B2
-
-https://img.shields.io/badge/php-7477AE?style=for-the-badge&logo=php&logoColor=white
-
-
-
-
-<br>
-<br>
 
