@@ -1,5 +1,5 @@
 <div align="center">
-<img src="readme/logo.svg" alt="Logo" width="80" height="80">
+<img src="readme/pro-md.svg" alt="Logo" width="80" height="80">
 <h3 align="center">GitHub README Template</h3>
 <p align="center">
 An simple README template to your project
