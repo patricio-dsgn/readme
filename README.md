@@ -12,12 +12,12 @@
 
 <br>
 
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/css3-plain.svg" width="20px" style="display:inline;"> css3
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/tailwindcss-plain.svg" width="20px" style="display:inline;"> tailwindcss
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bootstrap-plain.svg" width="20px" style="display:inline;"> bootstrap
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bulma-plain.svg" width="20px" style="display:inline;"> bulma
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/picocss-plain.svg" width="20px" style="display:inline;"> picocss
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/materializecss-original.svg" width="20px" style="display:inline;"> materializecss
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/css3-plain.svg" width="20px" style="display:inline;"> css3
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/tailwindcss-plain.svg" width="20px" style="display:inline;"> tailwindcss
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bootstrap-plain.svg" width="20px" style="display:inline;"> bootstrap
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bulma-plain.svg" width="20px" style="display:inline;"> bulma
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/picocss-plain.svg" width="20px" style="display:inline;"> picocss
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/materializecss-original.svg" width="20px" style="display:inline;"> materializecss
 
 <br>
 
