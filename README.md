@@ -6,17 +6,17 @@
 
 <img src="readme/logo.svg" alt="Logo" width="80" height="80">
 
-<h3 align="center">Name Project</h3>
+<h3 align="center">GitHub README Template</h3>
 
 <p align="center">
-An awesome README template to jumpstart your projects!
+An simple README template to your project
 <br />
 
-<a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+<a href="https://github.com/patricio-dsgn/readme">View Demo</a>
 
-<a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+<a href="https://github.com/patricio-dsgn/readme/issues">Report Bug</a>
 
-<a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+<a href="https://github.com/patricio-dsgn/readme/issues">Request Feature</a>
 
 </p>
 
@@ -28,23 +28,33 @@ An awesome README template to jumpstart your projects!
 ## About The Project
 <img src="./readme/01.png">
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Welcome to the GitHub README Template! This repository is designed to simplify and enhance the creation of READMEs for your GitHub projects. We believe that clear and effective documentation is essential for making your project understandable and accessible to other developers and users.
 
-Here's why:
+**Why This Template?**
+While there are indeed many README templates available on GitHub, we've created this one with a specific goal in mind:
 
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
+* **Streamline Creation**: We want to make it as straightforward as possible to create an informative and visually appealing README. With this template, you can focus on what truly matters: your project.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+* **Promote Best Practices**: We've incorporated best practices for project documentation on GitHub. This includes key sections and tips for effectively explaining your project.
 
-Use the `BLANK_README.md` to get started.
+* **Flexibility**: We understand that every project is unique. Therefore, this template is entirely customizable. You can add or remove sections to suit your specific needs.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+**How to Use This Template**
+Getting started is easy. Simply clone this repository or download the BLANK_README.md file and customize it to fit your project's requirements. Be sure to review the instructions and tips included in each section for the best results.
 
-### Built With
+**Contribute and Share**
+We believe in collaboration and the spirit of open source. If you have ideas for improving this template or wish to contribute, you're more than welcome! You can do so through pull requests or by reporting issues. Together, we can make this template even better.
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+**Get Started Now**
+Don't waste time creating a README from scratch. Use this template as a starting point and showcase what makes your project unique. Let us help you create high-quality documentation and make your project shine on GitHub.
+
+Let's get started!
+
+
+
+
+
+**Built With** In the following sections, we'll list the technologies used to construct this project.
 
 * <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/php-plain.svg" width="20px" style="display:inline;"> php
 * <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/laravel-plain.svg" width="20px" style="display:inline;"> laravel
@@ -94,46 +104,24 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/django-plain.svg" width="20px" style="display:inline;"> django
 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
+**Prerequisites**: This is an example of how to list things you need to use the software and how to install them.
 
 - npm
   ```sh
   npm install npm@latest -g
   ```
 
-### Installation
+**Installation**:
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
 
 ## Usage
 
@@ -141,25 +129,17 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- ROADMAP -->
 
 ## Roadmap
 
 - [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
+- [ ] add language (Spanish)
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/patricio-dsgn/readme/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## Contributing
 
@@ -174,22 +154,14 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## License
 
 Distributed under the MIT License. See <a href="LICENSE.txt">LICENSE.txt</a> for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Contact
-
 
 * Author: <a href="https://github.com/patricio-dsgn/">https://github.com/patricio-dsgn/</a>
 * Project Link: <a href="https://github.com/patricio-dsgn/">https://github.com/patricio-dsgn/</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -207,6 +179,3 @@ I'd like to express my gratitude to the following resources that have been instr
 - [React Icons](https://react-icons.github.io/react-icons/): A library of popular icons for use in React applications.
 
 These resources have played a significant role in making this project possible. Thank you for providing such valuable tools and references!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
