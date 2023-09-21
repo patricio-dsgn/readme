@@ -1,25 +1,13 @@
-<a name="readme-top"></a>
-
-
-
 <div align="center">
-
 <img src="readme/logo.svg" alt="Logo" width="80" height="80">
-
 <h3 align="center">GitHub README Template</h3>
-
 <p align="center">
 An simple README template to your project
-<br />
-
-<a href="https://github.com/patricio-dsgn/readme">View Demo</a>
-
-<a href="https://github.com/patricio-dsgn/readme/issues">Report Bug</a>
-
-<a href="https://github.com/patricio-dsgn/readme/issues">Request Feature</a>
-
+<br><br>
+<a href="https://github.com/patricio-dsgn/readme">View Demo</a> <br>
+<a href="https://github.com/patricio-dsgn/readme/issues">Report Bug</a> <br>
+<a href="https://github.com/patricio-dsgn/readme/issues">Request Feature</a> <br>
 </p>
-
 </div>
 
 
@@ -161,7 +149,7 @@ Distributed under the MIT License. See <a href="LICENSE.txt">LICENSE.txt</a> for
 ## Contact
 
 * Author: <a href="https://github.com/patricio-dsgn/">https://github.com/patricio-dsgn/</a>
-* Project Link: <a href="https://github.com/patricio-dsgn/">https://github.com/patricio-dsgn/</a>
+* Project Link: <a href="https://github.com/patricio-dsgn/readme/">https://github.com/patricio-dsgn/</a>
 
 <!-- ACKNOWLEDGMENTS -->
 
