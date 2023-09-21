@@ -1,86 +1,16 @@
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/php-plain.svg" width="20px" style="display:inline;"> php
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/laravel-plain.svg" width="20px" style="display:inline;"> laravel
-
-<br>
-
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bash-plain.svg" width="20px" style="display:inline;"> bash
-
-<br>
-
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/html5-plain.svg" width="20px" style="display:inline;"> html5
-
-<br>
-
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/css3-plain.svg" width="20px" style="display:inline;"> css3
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/tailwindcss-plain.svg" width="20px" style="display:inline;"> tailwindcss
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bootstrap-plain.svg" width="20px" style="display:inline;"> bootstrap
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bulma-plain.svg" width="20px" style="display:inline;"> bulma
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/picocss-plain.svg" width="20px" style="display:inline;"> picocss
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/materializecss-original.svg" width="20px" style="display:inline;"> materializecss
-
-<br>
-
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/javascript-original.svg" width="20px" style="display:inline;"> javascript
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/nodejs-plain.svg" width="20px" style="display:inline;"> node.js
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/react-original.svg" width="20px" style="display:inline;"> react
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/vuejs-original.svg" width="20px" style="display:inline;"> vue.js
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/angularjs-plain.svg" width="20px" style="display:inline;"> angular.js
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/svelte-original.svg" width="20px" style="display:inline;"> svelte
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/typescript-plain.svg" width="20px" style="display:inline;"> typescript
-
-<br>
-
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/npm-original-wordmark.svg" width="20px" style="display:inline;"> npm
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/yarn-original.svg" width="20px" style="display:inline;"> yarn
-
-<br>
-
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/mongodb-plain.svg" width="20px" style="display:inline;"> mongodb
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/redis-plain.svg" width="20px" style="display:inline;"> redis
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/mysql-plain.svg" width="20px" style="display:inline;"> mysql
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/postgresql-plain.svg" width="20px" style="display:inline;"> postgresql
-
-<br>
-
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/python-original.svg" width="20px" style="display:inline;"> python
-* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/django-plain.svg" width="20px" style="display:inline;"> django
-
-
-
-
-
-
-
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-
 <a name="readme-top"></a>
 
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedInhttps://www.linkedin.com/in/patricio-dsgn/
+ -->
 
-<!-- PROJECT LOGO -->
-<br />
+<!-- <a href="https://www.linkedin.com/in/patricio-dsgn/"><a href="https://www.linkedin.com/in/patricio-dsgn/">linkdn</a>
+</a> -->
+
+
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="readme/logo.svg" alt="Logo" width="80" height="80">
@@ -102,7 +32,7 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -128,11 +58,9 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="./readme/01.png">
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
