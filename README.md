@@ -10,39 +10,33 @@ An simple README template to your project
 </p>
 </div>
 
-
-
-
 ## About The Project
 <img src="./readme/01.png">
 
 Welcome to the GitHub README Template! This repository is designed to simplify and enhance the creation of READMEs for your GitHub projects. We believe that clear and effective documentation is essential for making your project understandable and accessible to other developers and users.
 
-**Why This Template?**
+Why This Template?
 While there are indeed many README templates available on GitHub, we've created this one with a specific goal in mind:
 
-* **Streamline Creation**: We want to make it as straightforward as possible to create an informative and visually appealing README. With this template, you can focus on what truly matters: your project.
+* Streamline Creation: We want to make it as straightforward as possible to create an informative and visually appealing README. With this template, you can focus on what truly matters: your project.
 
-* **Promote Best Practices**: We've incorporated best practices for project documentation on GitHub. This includes key sections and tips for effectively explaining your project.
+* Promote Best Practices: We've incorporated best practices for project documentation on GitHub. This includes key sections and tips for effectively explaining your project.
 
-* **Flexibility**: We understand that every project is unique. Therefore, this template is entirely customizable. You can add or remove sections to suit your specific needs.
+* Flexibility: We understand that every project is unique. Therefore, this template is entirely customizable. You can add or remove sections to suit your specific needs.
 
-**How to Use This Template**
+**How to Use This Template**:
 Getting started is easy. Simply clone this repository or download the BLANK_README.md file and customize it to fit your project's requirements. Be sure to review the instructions and tips included in each section for the best results.
 
-**Contribute and Share**
+**Contribute and Share**:
 We believe in collaboration and the spirit of open source. If you have ideas for improving this template or wish to contribute, you're more than welcome! You can do so through pull requests or by reporting issues. Together, we can make this template even better.
 
-**Get Started Now**
+**Get Started Now**:
 Don't waste time creating a README from scratch. Use this template as a starting point and showcase what makes your project unique. Let us help you create high-quality documentation and make your project shine on GitHub.
 
 Let's get started!
 
-
-
-
-
-**Built With** In the following sections, we'll list the technologies used to construct this project.
+**Built With**:
+In the following sections, we'll list the technologies used to construct this project.
 
 * <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/php-plain.svg" width="20px" style="display:inline;"> php
 * <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/laravel-plain.svg" width="20px" style="display:inline;"> laravel
@@ -97,7 +91,9 @@ Let's get started!
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-**Prerequisites**: This is an example of how to list things you need to use the software and how to install them.
+**Prerequisites**:
+
+This is an example of how to list things you need to use the software and how to install them.
 
 - npm
   ```sh
@@ -118,16 +114,12 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-
-<!-- ROADMAP -->
-
 ## Roadmap
 
 - [x] Add Changelog
 - [ ] add language (Spanish)
 
 See the [open issues](https://github.com/patricio-dsgn/readme/issues) for a full list of proposed features (and known issues).
-
 
 ## Contributing
 
@@ -150,8 +142,6 @@ Distributed under the MIT License. See <a href="LICENSE.txt">LICENSE.txt</a> for
 
 * Author: <a href="https://github.com/patricio-dsgn/">https://github.com/patricio-dsgn/</a>
 * Project Link: <a href="https://github.com/patricio-dsgn/readme/">https://github.com/patricio-dsgn/</a>
-
-<!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
