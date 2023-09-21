@@ -1,14 +1,13 @@
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/php-plain.svg" width="20px" style="display:inline;"> php
-
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/laravel-plain.svg" width="20px" style="display:inline;"> laravel
-
-<br>
-
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bash-plain.svg" width="20px" style="display:inline;"> bash
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/php-plain.svg" width="20px" style="display:inline;"> php
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/laravel-plain.svg" width="20px" style="display:inline;"> laravel
 
 <br>
 
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/html5-plain.svg" width="20px" style="display:inline;"> html5
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/bash-plain.svg" width="20px" style="display:inline;"> bash
+
+<br>
+
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/html5-plain.svg" width="20px" style="display:inline;"> html5
 
 <br>
 
@@ -21,30 +20,30 @@
 
 <br>
 
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/javascript-original.svg" width="20px" style="display:inline;"> javascript
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/nodejs-plain.svg" width="20px" style="display:inline;"> node.js
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/react-original.svg" width="20px" style="display:inline;"> react
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/vuejs-original.svg" width="20px" style="display:inline;"> vue.js
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/angularjs-plain.svg" width="20px" style="display:inline;"> angular.js
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/svelte-original.svg" width="20px" style="display:inline;"> svelte
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/typescript-plain.svg" width="20px" style="display:inline;"> typescript
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/javascript-original.svg" width="20px" style="display:inline;"> javascript
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/nodejs-plain.svg" width="20px" style="display:inline;"> node.js
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/react-original.svg" width="20px" style="display:inline;"> react
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/vuejs-original.svg" width="20px" style="display:inline;"> vue.js
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/angularjs-plain.svg" width="20px" style="display:inline;"> angular.js
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/svelte-original.svg" width="20px" style="display:inline;"> svelte
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/typescript-plain.svg" width="20px" style="display:inline;"> typescript
 
 <br>
 
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/npm-original-wordmark.svg" width="20px" style="display:inline;"> npm
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/yarn-original.svg" width="20px" style="display:inline;"> yarn
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/npm-original-wordmark.svg" width="20px" style="display:inline;"> npm
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/yarn-original.svg" width="20px" style="display:inline;"> yarn
 
 <br>
 
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/mongodb-plain.svg" width="20px" style="display:inline;"> mongodb
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/redis-plain.svg" width="20px" style="display:inline;"> redis
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/mysql-plain.svg" width="20px" style="display:inline;"> mysql
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/postgresql-plain.svg" width="20px" style="display:inline;"> postgresql
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/mongodb-plain.svg" width="20px" style="display:inline;"> mongodb
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/redis-plain.svg" width="20px" style="display:inline;"> redis
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/mysql-plain.svg" width="20px" style="display:inline;"> mysql
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/postgresql-plain.svg" width="20px" style="display:inline;"> postgresql
 
 <br>
 
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/python-original.svg" width="20px" style="display:inline;"> python
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/django-plain.svg" width="20px" style="display:inline;"> django
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/python-original.svg" width="20px" style="display:inline;"> python
+* <img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/django-plain.svg" width="20px" style="display:inline;"> django
 
 
 
