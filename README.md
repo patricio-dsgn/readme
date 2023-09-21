@@ -1,3 +1,11 @@
+<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/php-plain.svg" width="20px" style="display:inline;"> php
+
+<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/laravel-plain.svg" width="20px" style="display:inline;">laravel
+
+
+
+
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 <a name="readme-top"></a>
@@ -366,6 +374,3 @@ https://img.shields.io/badge/php-7477AE?style=for-the-badge&logo=php&logoColor=w
 <br>
 <br>
 
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/php-plain.svg" width="20px" style="display:inline;"> php
-
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/laravel-plain.svg" width="20px" style="display:inline;">laravel
