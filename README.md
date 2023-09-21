@@ -365,5 +365,7 @@ https://img.shields.io/badge/php-7477AE?style=for-the-badge&logo=php&logoColor=w
 
 <br>
 <br>
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/php-plain.svg" width="20px" style="display:inline;"> <span style="display:inline;">php</span><br>
-<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/laravel-plain.svg" width="20px" style="display:inline;"> <span style="display:inline;">laravel</span>
+
+<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/php-plain.svg" width="20px" style="display:inline;"> php
+
+<img src="https://patricio-dsgn.github.io/source-invaders/assets/source/brands/laravel-plain.svg" width="20px" style="display:inline;">laravel
